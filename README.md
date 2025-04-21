@@ -36,3 +36,13 @@ Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't sp
 [Solution](./Facebook/Medium/Day2.cpp)
 
 ---
+
+### Problem 3 - Hard - Amazon
+
+Given a string, find the longest palindromic contiguous substring. If there are more than one with the maximum length, return any one.
+
+For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
+
+[Solution](./Amazon/Hard/Day3.cpp)
+
+---

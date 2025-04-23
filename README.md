@@ -64,3 +64,13 @@ Find the busiest period in the building, that is, the time with the most people 
 [Solution](./Amazon/Easy/Day4.cpp)
 
 ---
+
+### Problem 5 - Easy - Stripe
+
+Given an integer n, return the length of the longest consecutive run of 1s in its binary representation.
+
+For example, given 156, you should return 3.
+
+[Solution](./Stripe/Easy/Day5.cpp)
+
+---

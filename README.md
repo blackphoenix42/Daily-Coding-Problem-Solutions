@@ -74,3 +74,16 @@ For example, given 156, you should return 3.
 [Solution](./Stripe/Easy/Day5.cpp)
 
 ---
+
+### Problem 6 - Easy - Microsoft
+
+Implement a URL shortener with the following methods:
+
+- shorten(url), which shortens the url into a six-character alphanumeric string, such as zLg6wl.
+- restore(short), which expands the shortened string into the original url. If no such shortened string exists, return null.
+  
+Hint: What if we enter the same URL twice?
+
+[Solution](./Microsoft/Easy/Day6.cpp)
+
+---

@@ -81,9 +81,27 @@ Implement a URL shortener with the following methods:
 
 - shorten(url), which shortens the url into a six-character alphanumeric string, such as zLg6wl.
 - restore(short), which expands the shortened string into the original url. If no such shortened string exists, return null.
-  
+
 Hint: What if we enter the same URL twice?
 
 [Solution](./Microsoft/Easy/Day6.cpp)
+
+---
+
+### Problem 7 - Medium - Epic
+
+The "look and say" sequence is defined as follows: beginning with the term 1, each subsequent term visually describes the digits appearing in the previous term. The first few terms are as follows:
+
+1<br>
+11<br>
+21<br>
+1211 <br>
+111221 <br>
+
+As an example, the fourth term is 1211, since the third term consists of one 2 and one 1.
+
+Given an integer N, print the Nth term of this sequence.
+
+[Solution](./Epic/Medium/Day7.cpp)
 
 ---

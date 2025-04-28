@@ -141,3 +141,35 @@ Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string
 [Solution](./Microsoft/Medium/Day10.cpp)
 
 ---
+
+### Problem 11 - Easy - Yelp
+
+Given a mapping of digits to letters (as in a phone number), and a digit string, return all possible letters the number could represent. You can assume each valid number in the mapping is a single digit.
+
+For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
+
+[Solution](./Yelp/Easy/Day11.cpp)
+
+---
+
+### Problem 12 - Medium - Square
+
+Given a list of words, return the shortest unique prefix of each word. For example, given the list:
+
+- dog
+- cat
+- apple
+- apricot
+- fish
+
+Return the list:
+
+- d
+- c
+- app
+- apr
+- f
+
+[Solution](./Square/Medium/Day12.cpp)
+
+---

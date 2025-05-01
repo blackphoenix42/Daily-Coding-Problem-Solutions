@@ -185,7 +185,8 @@ For example, a puzzle of the form:
 + MORE
 --------
  MONEY
- ```
+```
+
 may have the solution:
 
 `{'S': 9, 'E': 5, 'N': 6, 'D': 7, 'M': 1, 'O', 0, 'R': 8, 'Y': 2}`
@@ -193,5 +194,22 @@ may have the solution:
 Given a three-word puzzle like the one above, create an algorithm that finds a solution.
 
 [Solution](./Google/Medium/Day13.cpp)
+
+---
+
+### Problem 14 - Hard - MIT
+
+[Blackjack](https://en.wikipedia.org/wiki/Blackjack) is a two player card game whose rules are as follows:
+
+- The player and then the dealer are each given two cards.
+- The player can then "hit", or ask for arbitrarily many additional cards, so long as their total does not exceed `21`.
+- The dealer must then hit if their total is `16` or lower, otherwise pass.
+- Finally, the two compare totals, and the one with the greatest sum not exceeding `21` is the winner.
+
+For this problem, cards values are counted as follows: each card between `2` and `10` counts as their face value, face cards count as `10`, and aces count as `1`.
+
+Given perfect knowledge of the sequence of cards in the deck, implement a blackjack solver that maximizes the player's score (that is, wins minus losses).
+
+[Solution](./MIT/Hard/Day14.cpp)
 
 ---

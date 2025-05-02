@@ -223,3 +223,11 @@ Do this in faster than `O(N log N)` time.
 [Solution](./Oracle/Hard/Day15.cpp)
 
 ---
+
+### Problem 16 - Hard - Facebook
+
+Given an array of numbers of length `N`, find both the minimum and maximum using less than `2 * (N - 2)` comparisons.
+
+[Solution](./Facebook/Hard/Day16.cpp)
+
+---

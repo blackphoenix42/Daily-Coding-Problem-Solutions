@@ -232,7 +232,7 @@ Given an array of numbers of length `N`, find both the minimum and maximum using
 
 ---
 
-### Problem 16 - Medium - Facebook
+### Problem 17 - Medium - Facebook
 
 Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0.
 
@@ -241,5 +241,15 @@ For example, given `[8, -1, 3, 4]`, return `15` as we choose the numbers `3`, `4
 Given `[-4, 5, 1, 0]`, return `6` as we choose the numbers `5` and `1`.
 
 [Solution](./Facebook/Medium/Day17.cpp)
+
+---
+
+### Problem 18 - Medium - Google
+
+Given a set of distinct positive integers, find the largest subset such that every pair of elements in the subset (i, j) satisfies either i % j = 0 or j % i = 0.
+
+For example, given the set [3, 5, 10, 20, 21], you should return [5, 10, 20]. Given [1, 3, 6, 24], return [1, 3, 6, 24].
+
+[Solution](./Google/Medium/Day18.cpp)
 
 ---

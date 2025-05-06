@@ -253,3 +253,31 @@ For example, given the set [3, 5, 10, 20, 21], you should return [5, 10, 20]. Gi
 [Solution](./Google/Medium/Day18.cpp)
 
 ---
+
+### Problem 19 - Easy - Google
+
+Given two rectangles on a 2D graph, return the area of their intersection. If the rectangles don't intersect, return 0.
+
+For example, given the following rectangles:
+
+```
+{
+    "top_left": (1, 4),
+    "dimensions": (3, 3) # width, height
+}
+```
+
+and
+
+```
+{
+    "top_left": (0, 5),
+    "dimensions": (4, 3) # width, height
+}
+```
+
+return 6.
+
+[Solution](./Google/Easy/Day19.cpp)
+
+---

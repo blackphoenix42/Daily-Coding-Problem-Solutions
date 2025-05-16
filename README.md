@@ -418,3 +418,15 @@ For example, given the input `['R', 'G', 'B', 'G', 'B']`, it is possible to end 
 [Solution](./Facebook/Easy/Day27.cpp)
 
 ---
+
+### Problem 28 - Medium - Amazon
+
+This problem was asked by Amazon.
+
+Given a string, find the length of the smallest window that contains every distinct character. Characters may appear more than once in the window.
+
+For example, given "jiujitsu", you should return 5, corresponding to the final five letters. |
+
+[Solution](./Amazon/Medium/Day28.cpp)
+
+---

@@ -440,3 +440,13 @@ For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] sin
 [Solution](./Google/Hard/Day29.cpp)
 
 ---
+
+### Problem 30 - Easy - Microsoft
+
+Using a read7() method that returns 7 characters from a file, implement readN(n) which reads n characters.
+
+For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
+
+[Solution](./Microsoft/Easy/Day30.cpp)
+
+---

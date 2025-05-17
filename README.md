@@ -421,12 +421,22 @@ For example, given the input `['R', 'G', 'B', 'G', 'B']`, it is possible to end 
 
 ### Problem 28 - Medium - Amazon
 
-This problem was asked by Amazon.
-
 Given a string, find the length of the smallest window that contains every distinct character. Characters may appear more than once in the window.
 
 For example, given "jiujitsu", you should return 5, corresponding to the final five letters. |
 
 [Solution](./Amazon/Medium/Day28.cpp)
+
+---
+
+### Problem 29 - Hard - Google
+
+Given a list of integers S and a target number k, write a function that returns a subset of S that adds up to k. If such a subset cannot be made, then return null.
+
+Integers can appear more than once in the list. You may assume all numbers in the list are positive.
+
+For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.|
+
+[Solution](./Google/Hard/Day29.cpp)
 
 ---

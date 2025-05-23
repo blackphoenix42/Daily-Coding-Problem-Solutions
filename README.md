@@ -497,3 +497,21 @@ Given the input string `abc`, return `["a", "b", "c"]`.
 [Solution](./Google/Hard/Day33.cpp)
 
 ---
+
+### Problem 34 - Easy - Amazon
+
+A tree is symmetric if its data and shape remain unchanged when it is reflected about the root node. The following tree is an example:
+
+```
+        4
+      / | \
+    3   5   3
+  /           \
+9              9
+```
+
+Given a `k`-ary tree, determine whether it is symmetric.
+
+[Solution](./Amazon/Easy/Day34.cpp)
+
+---

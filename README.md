@@ -570,8 +570,6 @@ For example, given "2542540123", you should return ['254.25.40.123', '254.254.0.
 
 ### Problem 38 - Easy - Amazon
 
-This problem was asked by Amazon.
-
 Implement a stack API using only a heap. A stack implements the following methods:
 
 - `push(item)`, which adds an element to the stack
@@ -583,5 +581,25 @@ Recall that a heap has the following operations:
 - `pop()`, which removes and returns the max value of the heap
 
 [Solution](./Amazon/Easy/Day38.cpp)
+
+---
+
+### Problem 39 - Easy - Apple
+
+Given a binary tree, find a minimum path sum from root to a leaf.
+
+For example, the minimum path in this tree is [10, 5, 1, -1], which has sum 15.
+
+```
+  10
+ /  \
+5    5
+ \     \
+   2    1
+       /
+     -1
+```
+
+[Solution](./Apple/Easy/Day39.cpp)
 
 ---

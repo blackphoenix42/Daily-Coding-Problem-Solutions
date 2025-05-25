@@ -567,3 +567,21 @@ For example, given "2542540123", you should return ['254.25.40.123', '254.254.0.
 [Solution](./Snapchat/Medium/Day37.cpp)
 
 ---
+
+### Problem 38 - Easy - Amazon
+
+This problem was asked by Amazon.
+
+Implement a stack API using only a heap. A stack implements the following methods:
+
+- `push(item)`, which adds an element to the stack
+- `pop()`, which removes and returns the most recently added element (or throws an error if there is nothing on the stack)
+
+Recall that a heap has the following operations:
+
+- push`(item)`, which adds a new key to the heap
+- `pop()`, which removes and returns the max value of the heap
+
+[Solution](./Amazon/Easy/Day38.cpp)
+
+---

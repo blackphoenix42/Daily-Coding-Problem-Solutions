@@ -603,3 +603,13 @@ For example, the minimum path in this tree is [10, 5, 1, -1], which has sum 15.
 [Solution](./Apple/Easy/Day39.cpp)
 
 ---
+
+### Problem 40 - Medium - LinkedIn
+
+You are given a string consisting of the letters `x` and `y`, such as `xyxxxyxyy`. In addition, you have an operation called `flip`, which changes a single `x` to `y` or vice versa.
+
+Determine how many times you would need to apply this operation to ensure that all `x`'s come before all `y`'s. In the preceding example, it suffices to flip the second and sixth characters, so you should return `2`.
+
+[Solution](./LinkedIn/Medium/Day40.cpp)
+
+---

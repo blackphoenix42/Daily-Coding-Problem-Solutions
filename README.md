@@ -613,3 +613,11 @@ Determine how many times you would need to apply this operation to ensure that a
 [Solution](./LinkedIn/Medium/Day40.cpp)
 
 ---
+
+### Problem 41 - Easy - Pivotal
+
+Write an algorithm that finds the total number of set bits in all integers between `1` and `N`.
+
+[Solution](./Pivotal/Easy/Day41.cpp)
+
+---

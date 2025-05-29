@@ -621,3 +621,32 @@ Write an algorithm that finds the total number of set bits in all integers betwe
 [Solution](./Pivotal/Easy/Day41.cpp)
 
 ---
+
+### Problem 42 - Easy - Oracle
+
+Given a binary search tree, find the floor and ceiling of a given integer. The floor is the highest element in the tree less than or equal to an integer, while the ceiling is the lowest element in the tree greater than or equal to an integer.
+
+If either value does not exist, return None.
+
+[Solution](./Oracle/Easy/Day42.cpp)
+
+---
+
+### Problem 43 - Easy - Wayfair
+
+You are given a `2 x N` board, and instructed to completely cover the board with the following shapes:
+
+- Dominoes, or `2 x 1` rectangles.
+- Trominoes, or `L`-shapes.
+  For example, if `N = 4`, here is one possible configuration, where `A` is a domino, and `B` and `C` are trominoes.
+
+```
+A B B C
+A B C C
+```
+
+Given an integer `N`, determine in how many ways this task is possible.
+
+[Solution](./Wayfair/Easy/Day43.cpp)
+
+---

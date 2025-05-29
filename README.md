@@ -638,7 +638,8 @@ You are given a `2 x N` board, and instructed to completely cover the board with
 
 - Dominoes, or `2 x 1` rectangles.
 - Trominoes, or `L`-shapes.
-  For example, if `N = 4`, here is one possible configuration, where `A` is a domino, and `B` and `C` are trominoes.
+
+For example, if `N = 4`, here is one possible configuration, where `A` is a domino, and `B` and `C` are trominoes.
 
 ```
 A B B C

@@ -651,3 +651,11 @@ Given an integer `N`, determine in how many ways this task is possible.
 [Solution](./Wayfair/Easy/Day43.cpp)
 
 ---
+
+### Problem 44 - Easy - Paypal
+
+Given a binary tree, determine whether or not it is height-balanced. A height-balanced binary tree can be defined as one in which the heights of the two subtrees of any node never differ by more than one.
+
+[Solution](./Paypal/Easy/Day44.cpp)
+
+---

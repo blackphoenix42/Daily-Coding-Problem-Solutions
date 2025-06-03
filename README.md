@@ -671,3 +671,19 @@ Given `s1 = foo` and `s2 = bar`, return `false` since the `o` cannot map to two 
 [Solution](./Bloomberg/Easy/Day45.cpp)
 
 ---
+
+### Problem 46 - Medium - Microsoft
+
+Write a program to determine how many distinct ways there are to create a max heap from a list of `N` given integers.
+
+For example, if `N = 3`, and our integers are `[1, 2, 3]`, there are two ways, shown below.
+
+```
+  3      3
+ / \    / \
+1   2  2   1
+```
+
+[Solution](./Microsoft/Medium/Day46.cpp)
+
+---

@@ -33,8 +33,8 @@ int consecutiveRun(int n)
 
 int main()
 {
-    int n = 156;
-
-    cout << "Length of the longest consecutive run of 1s: " << consecutiveRun(n);
+    assert(consecutiveRun(156) == 3);
+    assert(consecutiveRun(0) == 0);
+    cout << "All tests passed." << endl;
     return 0;
 }

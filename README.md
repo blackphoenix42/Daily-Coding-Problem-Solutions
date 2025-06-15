@@ -700,3 +700,11 @@ You can assume that all values get cleared at the end of the day, and that you w
 [Solution](./Twitter/Hard/Day47.cc)
 
 ---
+
+### Problem 48 - Medium - Facebook
+
+Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
+
+[Solution](./Facebook/Medium/Day48.cc)
+
+---

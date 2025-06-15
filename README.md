@@ -720,3 +720,11 @@ For example, suppose we are given the string `daily` and `k = 1`. The best we ca
 [Solution](./Yahoo/Easy/Day49.cc)
 
 ---
+
+### Problem 50 - Hard - Etsy
+
+Given a sorted array, convert it into a height-balanced binary search tree.
+
+[Solution](./Etsy/Hard/Day50.cc)
+
+---

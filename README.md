@@ -774,3 +774,35 @@ As a result, your function should return `[(0, 3), (4, 5), (11, 3), (15, 0), (19
 [Solution](./VMware/Hard/Day52.cc)
 
 ---
+
+### Problem 53 - Hard - Quora
+
+Word sense disambiguation is the problem of determining which sense a word takes on in a particular setting, if that word has multiple meanings. For example, in the sentence "I went to get money from the bank", bank probably means the place where people deposit money, not the land beside a river or lake.
+
+Suppose you are given a list of meanings for several words, formatted like so:
+
+```
+{
+    "word_1": ["meaning one", "meaning two", ...],
+    ...
+    "word_n": ["meaning one", "meaning two", ...]
+}
+```
+
+Given a sentence, most of whose words are contained in the meaning list above, create an algorithm that determines the likely sense of each possibly ambiguous word.
+
+[Solution](./Quora/Hard/Day53.cc)
+
+---
+
+### Problem 54 - Medium - Facebook
+
+Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
+
+For example, the message '111' would give 3, since it could be decoded as 'aaa', 'ka', and 'ak'.
+
+You can assume that the messages are decodable. For example, '001' is not allowed.
+
+[Solution](./Facebook/Medium/Day54.cc)
+
+---

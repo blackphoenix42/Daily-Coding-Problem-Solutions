@@ -806,3 +806,29 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 [Solution](./Facebook/Medium/Day54.cc)
 
 ---
+
+### Problem 55 - Medium - Google
+
+What will this code print out?
+
+```
+def make_functions():
+    flist = []
+
+    for i in [1, 2, 3]:
+        def print_i():
+            print(i)
+        flist.append(print_i)
+
+    return flist
+
+functions = make_functions()
+for f in functions:
+    f()
+```
+
+How can we make it print out what we apparently want?
+
+[Solution](./Google/Medium/Day55.cc)
+
+---
